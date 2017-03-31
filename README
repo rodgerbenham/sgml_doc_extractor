@@ -1,0 +1,6 @@
+Documents must be wrapped in
+<CORPUS>
+...
+</CORPUS>
+
+for nokogiri to interpret as XML
